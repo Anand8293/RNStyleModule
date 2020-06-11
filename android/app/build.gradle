@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.modulestyleapp"
+        applicationId "com.modulebasiccomponent"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
